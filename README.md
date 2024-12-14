@@ -73,3 +73,45 @@ bun run preview
 ```
 
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+
+# 1 Intro
+
+# 2 Create an App
+
+# 3 Pages
+
+# 4 Components
+
+# 4 Layouts
+
+# 5 Assets
+
+# 6 Composable
+
+# 7 Plugins
+
+# 8 Middlewares
+
+# 9 Modules
+
+# 10 State Management
+
+# 11 Server
+
+# 12 Nitro
+
+# 13 Rendering modes
+
+# 14 useFetch
+
+# 15 useAsyncData
+
+# 16 SEO & Metas
+
+# 17 Hooks
+
+# 18 Nuxt.config.ts
+
+# 19 Nuxt Content
+
+# 20 Build Docs and API
